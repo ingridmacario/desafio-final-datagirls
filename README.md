@@ -1,4 +1,4 @@
-# Autoras
+# AUTORAS
 
 *   Camila Mota;
 *   Fatima Teixeira;
@@ -17,7 +17,9 @@ A edição 2023 trouxe novidades importantes, como a inclusão de perguntas sobr
 
 A realização da pesquisa State of Data Brazil é fruto de um esforço conjunto entre a Data Hackers, a maior comunidade de dados do Brasil, e a Bain & Company, uma das principais consultorias de gestão global.
 
-Os resultados da pesquisa possuem acesso público, disponíveis na plataforma Kaggle.
+Esse foi o projeto vencedor do Desafio Final do Bootcamp (Re)Start!
+
+
 
 # OBJETIVO
 
