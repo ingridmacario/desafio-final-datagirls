@@ -1,3 +1,10 @@
+# Autoras
+
+*   Camila Mota:
+*   Fatima Teixeira:
+*   Ingrid Macário: www.linkedin.com/in/ingrid-macario
+*   Jéssika Correa:
+
 # RESUMO
 
 O State of Data Brazil é atualmente o maior e mais abrangente mapeamento do mercado de trabalho em dados no Brasil. Desde sua criação, a pesquisa tem se destacado como uma ferramenta fundamental para o entendimento das tendências e desafios enfrentados pelos profissionais dessa área. A quarta edição, realizada entre 16 de outubro e 6 de dezembro de 2023, representa um marco importante, consolidando a pesquisa como referência no setor de dados.
