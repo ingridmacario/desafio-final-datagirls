@@ -1,9 +1,9 @@
 # Autoras
 
-*   Camila Mota:
-*   Fatima Teixeira:
-*   Ingrid Macário: www.linkedin.com/in/ingrid-macario
-*   Jéssika Correa:
+*   Camila Mota;
+*   Fatima Teixeira;
+*   Ingrid Macário;
+*   Jéssika Correa.
 
 # RESUMO
 
