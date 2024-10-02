@@ -1,10 +1,16 @@
+# Desafio Final - Bootcamp (Re)Start 2024
+
+O Desafio Final, promovido pela Data Girls, utilizou o dataset State of Data Brazil 2023. Este projeto destacou-se como o grande vencedor do desafio!
+
+#
 # AUTORAS
 
-*   Camila Mota;
-*   Fatima Teixeira;
-*   Ingrid Macário;
-*   Jéssika Correa.
+*   [Camila Mota](https://www.linkedin.com/in/camila-rodrigues-mota/)
+*   [Fatima Teixeira](https://www.linkedin.com/in/teixeira-fatima/)
+*   [Ingrid Macário](https://www.linkedin.com/in/ingrid-macario/)
+*   [Jéssika Correa](https://www.linkedin.com/in/jessikaguido/)
 
+#
 # RESUMO
 
 O State of Data Brazil é atualmente o maior e mais abrangente mapeamento do mercado de trabalho em dados no Brasil. Desde sua criação, a pesquisa tem se destacado como uma ferramenta fundamental para o entendimento das tendências e desafios enfrentados pelos profissionais dessa área. A quarta edição, realizada entre 16 de outubro e 6 de dezembro de 2023, representa um marco importante, consolidando a pesquisa como referência no setor de dados.
@@ -17,14 +23,12 @@ A edição 2023 trouxe novidades importantes, como a inclusão de perguntas sobr
 
 A realização da pesquisa State of Data Brazil é fruto de um esforço conjunto entre a Data Hackers, a maior comunidade de dados do Brasil, e a Bain & Company, uma das principais consultorias de gestão global.
 
-Esse foi o projeto vencedor do Desafio Final do Bootcamp (Re)Start!
-
-
-
+#
 # OBJETIVO
 
 O objetivo deste relatório, proposto pela [Re]start Bootcamp - Data Girls, é a condução de análises planejadas sobre o mercado de trabalho no setor de dados, utilizando como referência a base de dados 'State of Data Brazil 2023'. Este estudo visa identificar tendências emergentes, avaliar a demanda por competências específicas, e compreender as dinâmicas do mercado, incluindo fatores como a oferta e a procura de profissionais qualificados, salários médios, e a evolução das funções e responsabilidades na área de dados. Este relatório faz parte do desafio final do bootcamp e visa aplicar os conhecimentos adquiridos, assim contribuindo para a formação das profissionais na área de dados.
 
+#
 # DESENVOLVIMENTO
 
 ## Dataset: limpeza e tratamento
@@ -77,6 +81,7 @@ Como exemplo, tem-se a análise do Pergunta 5:
 
 Diferente das outras análises, ao analisarmos todas as identidades presentes no dataset original, podemos enxergar com mais clareza as disparidades entre gêneros, como observados na análise anterior. Para tal, realizamos um agrupamento de gênero e nível de ensino para observação desse cenário.
 
+#
 # CONCLUSÃO 
 
 A análise da participação feminina em diferentes contextos profissionais revela um cenário de crescente diversidade, mas também aponta para desafios persistentes na equidade de gênero, especialmente em cargos de liderança.
